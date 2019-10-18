@@ -1,0 +1,24 @@
+.fondo{
+	background-color: darkgrey;
+}
+h1 {
+	text-align:center;
+}
+.p1{
+	margin-left: 100px;
+	font-size: 14pt;
+	color: azure;
+}
+.p2{
+margin-left: 50px;
+	font-size: 24pt;
+	color: green;
+}
+.p3{
+	margin-left: 150px;
+	font-size: 10pt;
+	color:darkred;
+}
+.li1{
+	font:sans-serif;
+}
