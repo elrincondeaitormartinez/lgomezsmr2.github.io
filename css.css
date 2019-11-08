@@ -18,7 +18,11 @@ margin-left: 50px;
 	margin-left: 150px;
 	font-size: 10pt;
 	color:darkred;
+	tex-align: center;
 }
 .li1{
 	font:sans-serif;
+}
+.li2{
+	font-family: verdana;
 }
