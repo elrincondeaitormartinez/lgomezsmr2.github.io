@@ -27,3 +27,14 @@ margin-left: 50px;
 .li2{
 	font-family: verdana;
 }
+.tablturismo{
+    background-color: cyan;
+    margin-left: 15px;
+    color: darkred 
+}
+}
+.ptur{
+    text-align:center;
+    color: crimson;
+    font-style: italic; 
+}
