@@ -1,0 +1,19 @@
+body{background-color: azure;
+    margin-left: 2em
+}
+h1{text-align: center;
+    font-family: inherit;
+    color: forestgreen
+}
+.i1{background-color: aqua;
+border-color: yellow;
+border-radius: 89px 89px 89px 89px;
+    
+    
+}
+.i2{background-color: crimson;
+border-color: yellow;
+border-radius: 89px 89px 89px 89px;
+    margin: 0 auto;
+  display: inline-block;
+}

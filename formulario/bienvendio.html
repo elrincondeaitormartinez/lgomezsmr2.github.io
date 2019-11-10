@@ -1,0 +1,45 @@
+
+<!DOCTYPE HTML>
+<html>
+	<head>
+        <link rel="stylesheet" href="formulario.css">
+		<title>Formulario</title>
+		<meta charset="utf-8">
+	</head>
+	<body>
+	<h1>Bienvenido</h1>
+	<form action="mailto:someone@example.com" method="post" enctype="text/plain">
+        Nombre:<br>
+        <input type="text" name="Nombre" value="">
+        <br>
+        Mensaje<br>
+         <input type="text" size="50" maxlength="30" value="" name=""></form>
+        <p>selecciona el color de tu Icono</p>
+<form>
+  <input type="radio" name="color" value="rojo" checked> rojo<br>
+  <input type="radio" name="color" value="verde"> verde<br>
+  <input type="radio" name="color" value="azul"> azul  
+</form> 
+<hr>
+        <p>selecciona los días con disponibilidad</p>
+    <input type="checkbox" name="Día" value="1">Lunes
+<br>
+<input type="checkbox" name="Día" value="2" checked>Martes
+<br>
+<input type="checkbox" name="Día" value="3">Miércoles
+        <br>
+<input type="checkbox" name="Día" value="4">Jueves
+        <br>
+<input type="checkbox" name="Día" value="5">Viernes
+        <hr>
+        <p>Selecciona un método de transporte</p>
+        <select name="transporte" size="2" multiple>
+            <option>Coche</option>
+            <option>Avión</option>
+            <option>Tren</option>
+</select>
+        <hr>
+        <input class="i1" type="submit" value="Enviar información">
+        <input class="i2" type="reset" value="Borrar información">
+	</body>
+</html>
