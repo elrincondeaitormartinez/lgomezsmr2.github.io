@@ -1,0 +1,51 @@
+body {background-color: #6AFFA2;
+}
+h1 {
+	text-align: center;
+	color: #FD7E8F;
+	background-color: #9F0D46;
+	font-family: verdana;
+}
+.pa1 {
+	text-align: center;
+	color: #FD7E8F;
+	background-color: #9F0D46;
+	font-family: verdana;
+	font-size: 20px;
+}
+.tablturismo{
+
+	text-align: center;
+	color: #FD7E8F;
+	background-color: #B8FA87;
+	font-family: verdana;
+	align-content: center;
+	font-size: 30px;
+}
+.ind_scroll{
+	text-align: center;
+	margin-left: 0px;
+	background-color: #00FF6F;
+	color: #000000; 
+}
+.orosalh1{
+
+}
+.oiah1{
+
+}
+table{
+	font-size: 18px;
+}
+.irocho{
+	text-align: center;
+	font-size: 50px;
+}
+.ballenatirandoseunpedo{
+	text-align: center;
+}
+.tablhoriz {
+	text-align: center;
+	font-size: 50px;
+	border-color: #7A0000;
+}
